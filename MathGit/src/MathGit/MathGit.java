@@ -1,6 +1,7 @@
 
 package MathGit;
 import MathGit.Sumar;
+import MathGit.Multiplicar;
 public class MathGit {
 
     public static void main(String[] args) {
