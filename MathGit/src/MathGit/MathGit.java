@@ -11,6 +11,10 @@ public class MathGit {
         int x = 10;
         int y = 20;
         System.out.println(sumar.suma(x,y));
+
+        Resta r1 = new Resta();
+        System.out.println("gaaaaaaaaaaaaaa!!"+r1.resta(5, 2));
+
     }
     
 }
