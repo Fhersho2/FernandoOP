@@ -5,8 +5,8 @@ package MathGit;
  *
  * @author terck
  */
-public class Resta {
-    public int resta(int num, int num2){
+public class Restar {
+    public int resta_merge(int num, int num2){
     return num-num2;
     }
 }
