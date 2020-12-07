@@ -16,5 +16,4 @@ public class MathGit {
         System.out.println("gaaaaaaaaaaaaaa!!"+r1.resta(5, 2));
 
     }
-    
 }
